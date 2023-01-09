@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.vaccine-cover-container {
+  background-color: #1c1c2b;
+  padding: 15px 10px;
+  margin: 25px 0px;
+}
+.responsive-container {
+  margin: 0px auto;
+}
+.vaccination-coverage-heading {
+  color: #94a3b8;
+  font-size: 30px;
+}

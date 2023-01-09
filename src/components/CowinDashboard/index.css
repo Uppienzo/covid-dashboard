@@ -1,0 +1,38 @@
+.main-container {
+  min-height: 100vh;
+  width: 100%;
+  background-color: #161625;
+  padding: 40px 90px;
+  font-family: roboto;
+}
+.logo-header {
+  display: flex;
+  align-items: center;
+}
+.website-logo {
+  height: 80px;
+}
+.website-logo-heading {
+  color: #2cc6c6;
+  padding-left: 17px;
+}
+.main-heading {
+  color: #cbd5e1;
+  font-weight: 500;
+}
+.loader {
+  padding: 120px 0px;
+  text-align: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.failure-img {
+  height: 350px;
+}
+.failure-text-head {
+  color: #cbd5e1;
+}

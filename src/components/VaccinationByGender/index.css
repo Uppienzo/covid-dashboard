@@ -1,0 +1,16 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.vaccine-gender-container {
+  background-color: #1c1c2b;
+  padding: 15px 10px;
+  margin: 25px 0px;
+}
+.responsive-gender-container {
+  margin: 0px auto;
+  display: flex;
+  text-align: center;
+}
+.vaccination-gender-heading {
+  color: #94a3b8;
+  font-size: 30px;
+}
